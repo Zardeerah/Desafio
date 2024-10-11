@@ -3,7 +3,7 @@
 ### Ejercicio 1 - Manejo del estado con Vuex ###
 ### Ejercicio 2 - Navegación con Vue Router ###
 ### Ejercicio 3 - Comunicación entre componentes ###
-### ver mi pagina en vivo ###
+### Ver mi pagina en vivo ###
 #### [link](https://desafiopruebas-fd5a8.web.app/) ####
 
 
