@@ -1,6 +1,6 @@
-### Prueba - Desarrollo de aplicaciones front-end con
-### framework Vue ###
+### Prueba - Desarrollo de aplicaciones front-end con framework Vue ###
 
+## Ejercicio 1 - Manejo del estado con Vuex ##
 
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
